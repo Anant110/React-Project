@@ -22,7 +22,7 @@ To get started with this project, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Anant110/travel-itinerary-app.git
+   git clone https://github.com/Anant110/React-Project
    ```
 
 2. Navigate to the project directory:
